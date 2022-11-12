@@ -35,10 +35,10 @@ If you want to talk about these technologies or if you need help, I will be happ
 
 ##
 
-![https://www.instagram.com/aty_jsm/](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![mailto:atysonjaime@gmail.com](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)
-![https://www.linkedin.com/in/atyson-jaime-91783a148/](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://atysonjaime.github.io](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=github&logoColor=white)
+[![https://www.instagram.com/aty_jsm/](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aty_jsm/)
+[![mailto:atysonjaime@gmail.com](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atysonjaime@gmail.com)
+[![https://www.linkedin.com/in/atyson-jaime-91783a148/](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atyson-jaime-91783a148/)
+[![https://atysonjaime.github.io](https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=github&logoColor=white)](https://atysonjaime.github.io)
 
 ![Snake animation](https://github.com/AtysonJaime/AtysonJaime/blob/output/github-contribution-grid-snake.svg)
 
